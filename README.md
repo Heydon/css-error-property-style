@@ -1,4 +1,4 @@
-# CSS Error Property Styling
+# Error Property Styling For Chome CSS Inspector
 
 *Huge thank you to [@dansketchpad](https://twitter.com/dansketchpad) who did most of the work on this!*
 
