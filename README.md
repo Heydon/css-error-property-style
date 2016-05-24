@@ -9,7 +9,7 @@ To improve the appearance of a fake `ERROR` property to log markup errors to Chr
 1. Enable the devtools experiments via `chrome://flags/#enable-devtools-experiments`
 2. Also enable in `Inspector > Settings > Experiments > Allow custom UI themes`
 3. Go to Extensions, then turn on Developer mode (checkbox on top right)
-4. Download this repository's `error-property-styling` folder
+4. Download this repository's `error-property-styling` folder and unpack it
 5. Under Extensions, press the **Load unpacked extension...** button to upload the extension folder
 6. Close and reopen any inspector panels and you should see the style for the `ERROR` property (an unrecognized, unparsable CSS property just used for logging errors to the inspector)
 
