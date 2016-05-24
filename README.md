@@ -19,7 +19,7 @@ To improve the appearance of a fake `ERROR` property to log markup errors to Chr
 
 ```
 a:not([href]) {
-    ERROR: Use a real button element!;
+    ERROR: This <a> element is not focusable because it lacks an href attribute;
 }
 
 /* the below block is used to highlight the presence of the error in the interface itself  */
